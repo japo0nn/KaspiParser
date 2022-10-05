@@ -1,0 +1,1 @@
+CREATE TABLE 'priducts' (id INT NOT NULL AUTO_INCREMENT, name VARCHAR(255), url VARCHAR(255), current_price INT, min_price INT, recommended_price INT, competitors_price INT, PRIMARY KEY(id)) ENGINE=InnoDB DEFAULT CHARSET = utf8mb4 AUTO_INCREMENT = 1;
