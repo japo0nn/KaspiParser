@@ -20,8 +20,8 @@ headers = {
 url = 'https://kaspi.kz/merchantcabinet/login'
 
 datas = {
-	'username' : 'flyingbear.kz@gmail.com',
-	'password' : 'Kingster1993!'
+	'username' : 'username',
+	'password' : 'password'
 }
 
 def get_pages(src):
